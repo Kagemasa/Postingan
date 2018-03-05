@@ -1,0 +1,2 @@
+# Postingan
+ini file postingan
